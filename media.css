@@ -89,7 +89,7 @@
         font-size: 1.5rem;
     }
 
-    .nav-links {
+    .links {
         flex-direction: column;
         gap: 0.5rem;
         text-align: center;

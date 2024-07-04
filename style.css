@@ -219,6 +219,7 @@ section {
     display: flex;
     justify-content: center;
     gap: 1rem;
+    padding: 1rem;
 }
 
 .btn {
@@ -312,7 +313,7 @@ section {
 
 /* EXPERINCE SECTION */
 
-#experince {
+#experience {
     position: relative;
 }
 
@@ -361,9 +362,9 @@ article .icon {
 }
 
 .project-img {
-    border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    border-radius: 1rem;
+    width: 50%;
+    height: 50%;
 }
 
 .project-title {
@@ -379,6 +380,7 @@ article .icon {
 /* CONTACT SECTION */
 
 #contact {
+    position: relative;
     display: flex;
     justify-content: center;
     flex-direction: column;

@@ -28,7 +28,7 @@ Navigate through the different sections using the navigation bar or hamburger me
 
 # Deployment
 
-The website is launched and hosted on AWS Amplify and was configured with AWS Route 53 under a custom domain [abuarida.com](https://www.abuarida.com/).
+The website is hosted on AWS Amplify and was configured with AWS Route 53 under a custom domain [abuarida.com](https://www.abuarida.com/).
 
 # Contributing
 

@@ -19,7 +19,7 @@
         display: flex;
     }
 
-    #experience, .experince-details-container {
+    #experience, .experience-details-container {
         margin-top: 2rem;
     }
 
@@ -69,7 +69,7 @@
         margin-bottom: 2rem;
     }
 
-    .about-containers, c.ontact-info-upper-container {
+    .about-container, .contact-info-upper-container {
         flex-wrap: wrap;
     }
 

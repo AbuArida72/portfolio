@@ -26,6 +26,10 @@ Navigate through the different sections using the navigation bar or hamburger me
 - **Projects**: Browse recent projects and access GitHub repositories.
 - **Contact**: Get in touch with the user via email or LinkedIn.
 
+# Deployment
+
+The website is launched and hosted on AWS Amplify and was configured with AWS Route 53 under a custom domain [abuarida.com](https://www.abuarida.com/).
+
 # Contributing
 
 Contributions are welcome! If you have suggestions for improvements, please open an issue or submit a pull request.

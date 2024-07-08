@@ -2,11 +2,11 @@
 
 This is a personal portfolio website for showcasing the projects and experiences of Mohammad Abu Arida, a software engineer. The website includes sections for About, Experience, Projects, and Contact information.
 
-# Overview
+## Overview
 
 The portfolio website is built using HTML, CSS, and JavaScript. It is fully responsive and includes a hamburger menu for easier navigation on smaller screens.
 
-# Features
+## Features
 
 - **Responsive Design**: The website adapts to different screen sizes using CSS media queries.
 - **Navigation Menu**: Includes a standard navigation bar and a hamburger menu for mobile devices.
@@ -16,7 +16,7 @@ The portfolio website is built using HTML, CSS, and JavaScript. It is fully resp
 - **Projects Section**: Showcases recent projects with links to GitHub repositories.
 - **Contact Section**: Provides contact information including email and LinkedIn profile.
 
-# Usage
+## Usage
 
 Navigate through the different sections using the navigation bar or hamburger menu. The sections include:
 
@@ -26,15 +26,15 @@ Navigate through the different sections using the navigation bar or hamburger me
 - **Projects**: Browse recent projects and access GitHub repositories.
 - **Contact**: Get in touch with the user via email or LinkedIn.
 
-# Deployment
+## Deployment
 
 The website is hosted on AWS Amplify and was configured with AWS Route 53 under a custom domain [abuarida.com](https://www.abuarida.com/).
 
-# Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements, please open an issue or submit a pull request.
 
-# License
+## License
 
 This project is licensed under the MIT License.
 

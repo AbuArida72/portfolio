@@ -7,9 +7,6 @@ WORKDIR /app
 # Step 3: Copy your project files to the container
 COPY . .
 
-# Step 4: Install dependencies
-RUN npm install
-
 # Step 5: Expose the port your app runs on
 EXPOSE 3000
 
